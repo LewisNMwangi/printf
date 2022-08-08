@@ -237,4 +237,4 @@ All the above options work well together.
 ### Authors &copy;
 
 - Lewis Mwangi,
--  Donald Brooks
+- Donald Brooks Arum
